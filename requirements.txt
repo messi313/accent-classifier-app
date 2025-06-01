@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+torchaudio
+speechbrain
+joblib
+numpy
+pydub
+matplotlib
+ffmpeg-python
