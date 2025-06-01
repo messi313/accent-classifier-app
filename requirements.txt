@@ -1,9 +1,10 @@
 streamlit
-pyngrok
-torchaudio
-speechbrain
 joblib
 numpy
 pydub
 matplotlib
+scikit-learn
+torch==1.13.1+cpu
+torchaudio==0.13.1+cpu
+speechbrain
 ffmpeg-python
